@@ -9,7 +9,7 @@ node_modules/
 .parcel-cache/
 
 # Build and compiled files
-/dist/
+dist/
 
 # Logs
 logs
